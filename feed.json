@@ -8,7 +8,7 @@
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-12T00:00:00.0Z",
+    "updateDate": "2018-11-12T00:05:00.0Z",
     "titleText": "Front End News",
     "mainText": "Angular 7 is released, the upgrade is proved to be the most convenient upgrade ever. The RxJs version is upgraded to 6.3, and the TypeScript is now on version 3.1 . The bad news is that Ivy is not there yet, so you will have to wait a bit more. One of the most interesting additions to it is the Drag and Drop support. For more information refer to 'Angular.io' website.",
     "redirectionUrl": "https://Angular.io"
