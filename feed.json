@@ -1,0 +1,16 @@
+[
+  {
+    "uid": "FRON_END_NEWS_ALEXA_FEED_1",
+    "updateDate": "2018-11-12T00:00:00.0Z",
+    "titleText": "Front End News",
+    "mainText": "Angular in depth has published an article on Angular container components. This article is focused on extracting a container component from a mixed one and helps you to better understand the differences.",
+    "redirectionUrl": "https://blog.angularindepth.com/container-components-with-angular-11e4200f8df"
+  },
+  {
+    "uid": "FRON_END_NEWS_ALEXA_FEED_2",
+    "updateDate": "2018-11-12T00:00:00.0Z",
+    "titleText": "Front End News",
+    "mainText": "Angular 7 is released, the upgrade is proved to be the most convenient upgrade ever. The RxJs version is upgraded to 6.3, and the TypeScript is now on version 3.1 . The bad news is that Ivy is not there yet, so you will have to wait a bit more. One of the most interesting additions to it is the Drag and Drop support. For more information refer to 'Angular.io' website.",
+    "redirectionUrl": "https://Angular.io"
+  }
+]
