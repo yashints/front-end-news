@@ -1,16 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-12T00:00:00.0Z",
+    "updateDate": "2018-11-19T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Angular in depth has published an article on Angular container components. This article is focused on extracting a container component from a mixed one and helps you to better understand the differences.",
-    "redirectionUrl": "https://blog.angularindepth.com/container-components-with-angular-11e4200f8df"
+    "mainText": "Google has created web.dev, an interactive website helping developers to have good insight on performance of their web applications.",
+    "redirectionUrl": "https://web.dev"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-12T00:05:00.0Z",
+    "updateDate": "2018-11-19T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Angular 7 is released, the upgrade is proved to be the most convenient upgrade ever. The RxJs version is upgraded to 6.3, and the TypeScript is now on version 3.1 . The bad news is that Ivy is not there yet, so you will have to wait a bit more. One of the most interesting additions to it is the Drag and Drop support. For more information refer to 'Angular.io' website.",
-    "redirectionUrl": "https://Angular.io"
+    "mainText": "In Google summit, they announced that Google’s tooling for measuring performance across all the various products will now be backed by the new PageSpeed API (version 5), which is essentially a Lighthouse API.",
+    "redirectionUrl": "https://developers.google.com"
+  },
+  {
+    "uid": "FRON_END_NEWS_ALEXA_FEED_3",
+    "updateDate": "2018-11-19T08:07:00.0Z",
+    "titleText": "Front End News",
+    "mainText": "The Mozilla Firefox DevTools team needs your input, they want to hear from both web developers and designers, and not just Firefox users—Chrome, Safari, Edge, and IE users are greatly encouraged to submit your thoughts. Just gp to https://yas.fyi/2DLMWur",
+    "redirectionUrl": "https://yas.fyi/2DLMWur"
+  },
+  {
+    "uid": "FRON_END_NEWS_ALEXA_FEED_4",
+    "updateDate": "2018-11-19T08:08:00.0Z",
+    "titleText": "Front End News",
+    "mainText": "React hooks were introduced in ReactConf recently. Hooks make it possible to take a React function component and add state to it. For more info look up reactjs.org",
+    "redirectionUrl": "https://reactjs.org"
+  },
+  {
+    "uid": "FRON_END_NEWS_ALEXA_FEED_4",
+    "updateDate": "2018-11-19T08:09:00.0Z",
+    "titleText": "Front End News",
+    "mainText": "AMP (Accelerated Mobile Pages) removes the ability to use JavaScript in order to improve performance, but there’s now a project looking at a way to provide a constrained environment for JavaScript to render things like interactive UI components within an AMP page.",
+    "redirectionUrl": "https://github.com/ampproject/amphtml/issues/13471"
   }
 ]
