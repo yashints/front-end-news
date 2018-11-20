@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-19T08:00:00.0Z",
+    "updateDate": "2018-11-21T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Google has created web.dev, an interactive website helping developers to have good insight on performance of their web applications.",
-    "redirectionUrl": "https://web.dev"
+    "mainText": "Safari Technology Preview Release 70 is now available for download for macOS Mojave and macOS High Sierra. This release covers web animations, intersection observer, css, WebRTC, web inspector and many more.",
+    "redirectionUrl": "https://webkit.org/blog/8496/release-notes-for-safari-technology-preview-70/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-19T08:05:00.0Z",
+    "updateDate": "2018-11-21T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "In Google summit, they announced that Google’s tooling for measuring performance across all the various products will now be backed by the new PageSpeed API (version 5), which is essentially a Lighthouse API.",
-    "redirectionUrl": "https://developers.google.com"
+    "mainText": "Google design and perf advocate, Paul Lewis has announced they need developer feedback on Frame timing API. This API is in draft state and basically allows us to measure the frame per second of JavaScript, CSS animations. Tracking the smoothness of the application is another usage. For more info please visit wicg.github.io/frame-timing/",
+    "redirectionUrl": "https://developers.google.com/web/updates/2014/11/frame-timing-api"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-11-19T08:07:00.0Z",
+    "updateDate": "2018-11-21T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "The Mozilla Firefox DevTools team needs your input, they want to hear from both web developers and designers, and not just Firefox users—Chrome, Safari, Edge, and IE users are greatly encouraged to submit your thoughts. Just gp to https://yas.fyi/2DLMWur",
+    "mainText": "Microsoft announced TypeScript 3.2 RC, the release candidate of our next version of TypeScript. Some of the upcoming features include strictBindCallApply, Object spread on generic types, Object rest on generic types, and more great features. You can check Microsoft roadmap for TypeScript for more information.",
     "redirectionUrl": "https://yas.fyi/2DLMWur"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-19T08:08:00.0Z",
+    "updateDate": "2018-11-21T08:08:00.0Z",
     "titleText": "Front End News",
-    "mainText": "React hooks were introduced in ReactConf recently. Hooks make it possible to take a React function component and add state to it. For more info look up reactjs.org",
-    "redirectionUrl": "https://reactjs.org"
+    "mainText": "VS Code had its October release a week ago and it contains yet another set of great features. Dirty file indicator, enhanced zen mode, and directory inheritance in the terminal are the new features added to it in this release.",
+    "redirectionUrl": "https://vscode.rocks/october-2018-highlights/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-19T08:09:00.0Z",
+    "updateDate": "2018-11-21T08:09:00.0Z",
     "titleText": "Front End News",
-    "mainText": "AMP (Accelerated Mobile Pages) removes the ability to use JavaScript in order to improve performance, but there’s now a project looking at a way to provide a constrained environment for JavaScript to render things like interactive UI components within an AMP page.",
-    "redirectionUrl": "https://github.com/ampproject/amphtml/issues/13471"
+    "mainText": "Introducing Slate, an open source and completely customisable framework for building rich text editors. Slate lets you build rich, intuitive editors like those in Medium, Dropbox Paper or Google Docs—which are becoming table stakes for applications on the web—without your codebase getting mired in complexity.",
+    "redirectionUrl": "https://docs.slatejs.org/"
   }
 ]
