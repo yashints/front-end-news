@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-21T08:00:00.0Z",
+    "updateDate": "2018-11-22T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Safari Technology Preview Release 70 is now available for download for macOS Mojave and macOS High Sierra. This release covers web animations, intersection observer, css, WebRTC, web inspector and many more.",
-    "redirectionUrl": "https://webkit.org/blog/8496/release-notes-for-safari-technology-preview-70/"
+    "mainText": "Google is running their first official DevFest OnAir on December 12th. These community-led developer sessions are hosted by GDG (Google Developer Groups) focused on community, networking and learning about Google technologies. It's free and you can register at g.co/dev/festonair18",
+    "redirectionUrl": "https://devfest.withgoogle.com/events/devfestonair18"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-21T08:05:00.0Z",
+    "updateDate": "2018-11-22T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Google design and perf advocate, Paul Lewis has announced they need developer feedback on Frame timing API. This API is in draft state and basically allows us to measure the frame per second of JavaScript, CSS animations. Tracking the smoothness of the application is another usage. For more info please visit wicg.github.io/frame-timing/",
-    "redirectionUrl": "https://developers.google.com/web/updates/2014/11/frame-timing-api"
+    "mainText": "Chrome Dev Summit finished last week and here are some highlights. Portals were introduced as a new API proposal which allow you seamless page transitions on the web. A portal element is similar to an iframe, but is always top-level and can be navigated into and out of.",
+    "redirectionUrl": "https://github.com/KenjiBaheux/portals"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-11-21T08:07:00.0Z",
+    "updateDate": "2018-11-22T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Microsoft announced TypeScript 3.2 RC, the release candidate of our next version of TypeScript. Some of the upcoming features include strictBindCallApply, Object spread on generic types, Object rest on generic types, and more great features. You can check Microsoft roadmap for TypeScript for more information.",
-    "redirectionUrl": "https://yas.fyi/2DLMWur"
+    "mainText": "They also announced Squoosh, A 15kb JS-powered web application which handles image compression. If you are interested in web performance you should definitely watch Jake Archibald's talk on how they created the app and what best practices they followed to make sure the app remains 15KB only.",
+    "redirectionUrl": "https://squoosh.app/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-21T08:08:00.0Z",
+    "updateDate": "2018-11-22T08:08:00.0Z",
     "titleText": "Front End News",
-    "mainText": "VS Code had its October release a week ago and it contains yet another set of great features. Dirty file indicator, enhanced zen mode, and directory inheritance in the terminal are the new features added to it in this release.",
-    "redirectionUrl": "https://vscode.rocks/october-2018-highlights/"
+    "mainText": "Chrome will soon natively support a lazyload attribute on resources such as images! This attribute will tell the browser to only load the resource when it is needed, for example when it is scrolled into view.",
+    "redirectionUrl": "https://www.youtube.com/playlist?list=PLNYkxOF6rcIDjlCx1PcphPpmf43aKOAdF"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-21T08:09:00.0Z",
+    "updateDate": "2018-11-22T08:09:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Introducing Slate, an open source and completely customisable framework for building rich text editors. Slate lets you build rich, intuitive editors like those in Medium, Dropbox Paper or Google Docs—which are becoming table stakes for applications on the web—without your codebase getting mired in complexity.",
-    "redirectionUrl": "https://docs.slatejs.org/"
+    "mainText": "Historically, measuring the performance of a website was split among various tools that could (and probably would) give differing results. Going forward, all of Google’s tooling for measuring performance across all the various products will now be backed by the new PageSpeed API (version 5), which is essentially a Lighthouse API.",
+    "redirectionUrl": "https://bitsofco.de/chrome-dev-summit-2018/"
   }
 ]
