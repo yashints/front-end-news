@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-22T08:00:00.0Z",
+    "updateDate": "2018-11-23T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Google is running their first official DevFest OnAir on December 12th. These community-led developer sessions are hosted by GDG (Google Developer Groups) focused on community, networking and learning about Google technologies. It's free and you can register at g.co/dev/festonair18",
-    "redirectionUrl": "https://devfest.withgoogle.com/events/devfestonair18"
+    "mainText": "Addy Osmani published a post a while ago explaining their Netflix web performance case study. He explains the steps they've taken to improve the page load speed, and how they discovered opportunities to improve their Time-to-Interactive by keeping a close eye on the cost of JavaScript. Visit yas.fyi/2FBfKrf for more information.",
+    "redirectionUrl": "https://yas.fyi/2FBfKrf"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-22T08:05:00.0Z",
+    "updateDate": "2018-11-23T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Chrome Dev Summit finished last week and here are some highlights. Portals were introduced as a new API proposal which allow you seamless page transitions on the web. A portal element is similar to an iframe, but is always top-level and can be navigated into and out of.",
-    "redirectionUrl": "https://github.com/KenjiBaheux/portals"
+    "mainText": "The state of JavaScript survey 2018 is now published. They've collected data from over 20,000 developers, asking them questions on topics ranging from front-end frameworks to testing libraries and more. There are some very interesting stats in there with ES6 taking a lead in JavaScript flavours, and React being the lead in frameworks category. Visit 2018.stateofjs.com to explore more.",
+    "redirectionUrl": "https://2018.stateofjs.com"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-11-22T08:07:00.0Z",
+    "updateDate": "2018-11-23T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "They also announced Squoosh, A 15kb JS-powered web application which handles image compression. If you are interested in web performance you should definitely watch Jake Archibald's talk on how they created the app and what best practices they followed to make sure the app remains 15KB only.",
-    "redirectionUrl": "https://squoosh.app/"
+    "mainText": "Goodbye Electron, Hello Desktop PWAs. A recent Chrome version(v70) has released some exciting support for Desktop Progressive Web Applications on Linux and Windows. Twitter, Starbucks and Google Maps have already invested in this a lot and are leading the way. For more info visit yas.fyi/2DEoAlt",
+    "redirectionUrl": "https://yas.fyi/2DEoAlt"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-22T08:08:00.0Z",
+    "updateDate": "2018-11-23T08:08:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Chrome will soon natively support a lazyload attribute on resources such as images! This attribute will tell the browser to only load the resource when it is needed, for example when it is scrolled into view.",
-    "redirectionUrl": "https://www.youtube.com/playlist?list=PLNYkxOF6rcIDjlCx1PcphPpmf43aKOAdF"
+    "mainText": "Evan You previewed Vue 3 this week during his keynote talk at Vue Toronto. We can expect Vue 3 to be faster, smaller, more maintainable, more native friendly, and easier to use. To see his full talk on YouTube go to yas.fyi/2SaACar",
+    "redirectionUrl": "https://yas.fyi/2SaACar"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-22T08:09:00.0Z",
+    "updateDate": "2018-11-23T08:09:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Historically, measuring the performance of a website was split among various tools that could (and probably would) give differing results. Going forward, all of Google’s tooling for measuring performance across all the various products will now be backed by the new PageSpeed API (version 5), which is essentially a Lighthouse API.",
-    "redirectionUrl": "https://bitsofco.de/chrome-dev-summit-2018/"
+    "mainText": "Asynchronous processing in JavaScript traditionally had a reputation for not being particularly fast. Maya Lekova and Benedikt Meurer published an articale where they explain how they optimized async functions and promises in V8 (and to some extent in other JavaScript engines as well). Go to v8.dev/blog for more info.",
+    "redirectionUrl": "https://v8.dev/blog/fast-async"
   }
 ]
