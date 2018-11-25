@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-23T08:00:00.0Z",
+    "updateDate": "2018-11-25T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Addy Osmani published a post a while ago explaining their Netflix web performance case study. He explains the steps they've taken to improve the page load speed, and how they discovered opportunities to improve their Time-to-Interactive by keeping a close eye on the cost of JavaScript. Visit yas.fyi/2FBfKrf for more information.",
-    "redirectionUrl": "https://yas.fyi/2FBfKrf"
+    "mainText": "React team have merged the Hooks proposal with some actionable items to consider. They announced that they might have some additional memory leak as part of this which goes beyond what just unexpected closure environments give us. For more information have a look at pull request number 68 on they GitHub repository.",
+    "redirectionUrl": "https://github.com/reactjs/rfcs/pull/68#issuecomment-440780509"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-23T08:05:00.0Z",
+    "updateDate": "2018-11-25T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "The state of JavaScript survey 2018 is now published. They've collected data from over 20,000 developers, asking them questions on topics ranging from front-end frameworks to testing libraries and more. There are some very interesting stats in there with ES6 taking a lead in JavaScript flavours, and React being the lead in frameworks category. Visit 2018.stateofjs.com to explore more.",
-    "redirectionUrl": "https://2018.stateofjs.com"
+    "mainText": "After releasing the state of JS survey earlier this week, some people have criticized it from a couple of perspectives. The most important one is gender gap with 92.9% male, 6.9% female and only 0.9% non-binary, genderqueer or gender non-conforming. Also the question about Angular and AngularJS (older version of the Google's popular framework) have been merged resulting in some questionable charts for the last three years.",
+    "redirectionUrl": "https://medium.com/@sachagreif/three-controversial-charts-from-the-state-of-js-2018-ec9dda45749"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-11-23T08:07:00.0Z",
+    "updateDate": "2018-11-25T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Goodbye Electron, Hello Desktop PWAs. A recent Chrome version(v70) has released some exciting support for Desktop Progressive Web Applications on Linux and Windows. Twitter, Starbucks and Google Maps have already invested in this a lot and are leading the way. For more info visit yas.fyi/2DEoAlt",
-    "redirectionUrl": "https://yas.fyi/2DEoAlt"
+    "mainText": "While online editing tools such as Grammarly and grammar suggestions from Google Docs aren’t foolproof, the artificial intelligence and machine learning algorithms that power them are successfully improving the way many of us write. In the process, it saved millions of embarrassing errors caused by carelessness (there vs. they're) and, of course, caught mistakes that involved more challenging grammar rules.",
+    "redirectionUrl": "https://www.forbes.com/sites/bernardmarr/2018/11/12/the-amazing-ways-google-and-grammarly-use-artificial-intelligence-to-improve-our-writing/#6b9d22b63bb0"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-23T08:08:00.0Z",
+    "updateDate": "2018-11-25T08:08:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Evan You previewed Vue 3 this week during his keynote talk at Vue Toronto. We can expect Vue 3 to be faster, smaller, more maintainable, more native friendly, and easier to use. To see his full talk on YouTube go to yas.fyi/2SaACar",
-    "redirectionUrl": "https://yas.fyi/2SaACar"
+    "mainText": "You might have heard about Framer X and not know what it is. Framer X is the latest and greatest version of Framer Studio, the prototyping tool. Framer introduces the in-built use of React components to allow designers get closer to high-fidelity prototyping. The big difference Framer X makes is that designs can now be made more interactive. Interactions such as scrolling, clicking, moving and handling input are now possible, all thanks to React components.",
+    "redirectionUrl": "https://scotch.io/bar-talk/get-to-know-framer-x-the-react-ui-creator"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-23T08:09:00.0Z",
+    "updateDate": "2018-11-25T08:09:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Asynchronous processing in JavaScript traditionally had a reputation for not being particularly fast. Maya Lekova and Benedikt Meurer published an articale where they explain how they optimized async functions and promises in V8 (and to some extent in other JavaScript engines as well). Go to v8.dev/blog for more info.",
-    "redirectionUrl": "https://v8.dev/blog/fast-async"
+    "mainText": "A new version of Create React App, the popular CLI for React, has been released and it now supports some features which have been demanded from developers for a long time. The most exciting feature is the support of TypeScript. In addition to that it now supports SASS (the popular CSS pre-processor) without the need to eject. It also supports CSS Modules out of the box which by far is the most wanted feature on the list.",
+    "redirectionUrl": "https://reactjs.org/blog/2018/10/01/create-react-app-v2.html"
   }
 ]
