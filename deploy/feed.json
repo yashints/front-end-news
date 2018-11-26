@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-25T08:00:00.0Z",
+    "updateDate": "2018-11-27T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "React team have merged the Hooks proposal with some actionable items to consider. They announced that they might have some additional memory leak as part of this which goes beyond what just unexpected closure environments give us. For more information have a look at pull request number 68 on they GitHub repository.",
-    "redirectionUrl": "https://github.com/reactjs/rfcs/pull/68#issuecomment-440780509"
+    "mainText": "The call for speakers is now open for NGVIKINGS 2019. This is a 100% community-driven event comprised of many Nordic Angular groups with more than 3500 active members in total, some of which are AngularJS Copenhagen, AngularJS Oslo, GDG Copenhagen and more. Visit ngvikings.org for more information.",
+    "redirectionUrl": "https://ngvikings.org/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-25T08:05:00.0Z",
+    "updateDate": "2018-11-27T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "After releasing the state of JS survey earlier this week, some people have criticized it from a couple of perspectives. The most important one is gender gap with 92.9% male, 6.9% female and only 0.9% non-binary, genderqueer or gender non-conforming. Also the question about Angular and AngularJS (older version of the Google's popular framework) have been merged resulting in some questionable charts for the last three years.",
-    "redirectionUrl": "https://medium.com/@sachagreif/three-controversial-charts-from-the-state-of-js-2018-ec9dda45749"
+    "mainText": "Learn Service Workers inside and out with the new PWA Mastery Game, a collaborative project by geddski &  Google Developers. It's now free and it's a great resource for anyone interested in mechanics of ServiceWorkers. It is in a form of a game where the hero meets some dragons, a way to show you how to avoid pitfalls of PWAs. Visit serviceworkies.com to play the game and learn more.",
+    "redirectionUrl": "https://serviceworkies.com"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-11-25T08:07:00.0Z",
+    "updateDate": "2018-11-27T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "While online editing tools such as Grammarly and grammar suggestions from Google Docs aren’t foolproof, the artificial intelligence and machine learning algorithms that power them are successfully improving the way many of us write. In the process, it saved millions of embarrassing errors caused by carelessness (there vs. they're) and, of course, caught mistakes that involved more challenging grammar rules.",
-    "redirectionUrl": "https://www.forbes.com/sites/bernardmarr/2018/11/12/the-amazing-ways-google-and-grammarly-use-artificial-intelligence-to-improve-our-writing/#6b9d22b63bb0"
+    "mainText": "There are some capabilities, like file system access, idle detection, and more that are available to native but aren’t available on the web. The V8 team at Google are working on preparing a proposal for Writable File API which is designed to increase interoperability of web applications with native applications. For more information visit developers.google.com.",
+    "redirectionUrl": "https://developers.google.com/web/updates/capabilities"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-25T08:08:00.0Z",
+    "updateDate": "2018-11-27T08:08:00.0Z",
     "titleText": "Front End News",
-    "mainText": "You might have heard about Framer X and not know what it is. Framer X is the latest and greatest version of Framer Studio, the prototyping tool. Framer introduces the in-built use of React components to allow designers get closer to high-fidelity prototyping. The big difference Framer X makes is that designs can now be made more interactive. Interactions such as scrolling, clicking, moving and handling input are now possible, all thanks to React components.",
-    "redirectionUrl": "https://scotch.io/bar-talk/get-to-know-framer-x-the-react-ui-creator"
+    "mainText": "With release of Chrome 71, come some changes to 'cache.addAll' and 'importScripts' and also removal of SpeechSynthesis.speak if user has not activated a document. Chrome also has removed non-standard aliases for two widely supported standard interfaces. The document.origin property has been removed as well which was only ever implemented in Chromium and WebKit. For more info have a look at their release notes.",
+    "redirectionUrl": "https://developers.google.com/web/updates/2018/10/chrome-71-deps-remsd"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-25T08:09:00.0Z",
+    "updateDate": "2018-11-27T08:09:00.0Z",
     "titleText": "Front End News",
-    "mainText": "A new version of Create React App, the popular CLI for React, has been released and it now supports some features which have been demanded from developers for a long time. The most exciting feature is the support of TypeScript. In addition to that it now supports SASS (the popular CSS pre-processor) without the need to eject. It also supports CSS Modules out of the box which by far is the most wanted feature on the list.",
-    "redirectionUrl": "https://reactjs.org/blog/2018/10/01/create-react-app-v2.html"
+    "mainText": "TypeScript 3.1 was released recently and has a ton of great features. Mapped types on tuples and arrays, properties declarations on functions, and version selection with typesVersions are now included in this great typed language.",
+    "redirectionUrl": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-1.html"
   }
 ]
