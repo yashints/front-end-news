@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-27T08:00:00.0Z",
+    "updateDate": "2018-11-29T08:00:00.0Z",
     "titleText": "Front End News",
     "mainText": "The call for speakers is now open for NGVIKINGS 2019. This is a 100% community-driven event comprised of many Nordic Angular groups with more than 3500 active members in total, some of which are AngularJS Copenhagen, AngularJS Oslo, GDG Copenhagen and more. Visit ngvikings.org for more information.",
     "redirectionUrl": "https://ngvikings.org/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-27T08:05:00.0Z",
+    "updateDate": "2018-11-29T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Learn Service Workers inside and out with the new PWA Mastery Game, a collaborative project by geddski &  Google Developers. It's now free and it's a great resource for anyone interested in mechanics of ServiceWorkers. It is in a form of a game where the hero meets some dragons, a way to show you how to avoid pitfalls of PWAs. Visit serviceworkies.com to play the game and learn more.",
-    "redirectionUrl": "https://serviceworkies.com"
+    "mainText": "React team have released the Roadmap for the first half of the 2019. They announced that the Suspense for code splitting is already shipped, React Hooks will be shipped Q1 2019, Concurrent Mode on Q2 2019, and Suspense for data fetching mid 2019. For more information visit their post on reactjs.org",
+    "redirectionUrl": "https://reactjs.org/blog/2018/11/27/react-16-roadmap.html"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-11-27T08:07:00.0Z",
+    "updateDate": "2018-11-29T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "There are some capabilities, like file system access, idle detection, and more that are available to native but aren’t available on the web. The V8 team at Google are working on preparing a proposal for Writable File API which is designed to increase interoperability of web applications with native applications. For more information visit developers.google.com.",
-    "redirectionUrl": "https://developers.google.com/web/updates/capabilities"
+    "mainText": "We all love free software, and open-source projects are the sweetest of all. The tech community has come to rely on them. That's why React Amsterdam has created a fun way of promoting open source projects, which is called open source awards. In 2019 they will repeat this and you can nominate your open source project of choice, the requirements are simple, the project should be open sourced and related to React ecosystem. Just head to osawards.com/react/ and submit your nomination.",
+    "redirectionUrl": "https://osawards.com/react/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-27T08:08:00.0Z",
+    "updateDate": "2018-11-29T08:08:00.0Z",
     "titleText": "Front End News",
-    "mainText": "With release of Chrome 71, come some changes to 'cache.addAll' and 'importScripts' and also removal of SpeechSynthesis.speak if user has not activated a document. Chrome also has removed non-standard aliases for two widely supported standard interfaces. The document.origin property has been removed as well which was only ever implemented in Chromium and WebKit. For more info have a look at their release notes.",
-    "redirectionUrl": "https://developers.google.com/web/updates/2018/10/chrome-71-deps-remsd"
+    "mainText": "Angular v7 was recently released but the party is now officially over, now that Angular v7.1.0 is almost upon us – the release candidate phase has begun. This release brings some bug fixes and even more features like ability to mark an InvokeFunctionExpr as pure function, add updateOn option to FormBuilder, allow guards to return UrlTree as well as boolean, and some improvements on the service worker. For more info head to bit.ly/2DRpPOb",
+    "redirectionUrl": "http://bit.ly/2DRpPOb"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-27T08:09:00.0Z",
+    "updateDate": "2018-11-29T08:09:00.0Z",
     "titleText": "Front End News",
-    "mainText": "TypeScript 3.1 was released recently and has a ton of great features. Mapped types on tuples and arrays, properties declarations on functions, and version selection with typesVersions are now included in this great typed language.",
-    "redirectionUrl": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-1.html"
+    "mainText": "Introducing Cloudflare Registrar: Domain Registration You Can Love. On its 8th birthday, Cloudflare introduced their registrar promising best possible security and best possible price. Adding two factor authentication, locking the registration by default and applying practices like DNSSEC are just a few of its benefits. For more info visit Cloudflare's website.",
+    "redirectionUrl": "https://www.cloudflare.com/lp/cloudflare-registrar-intro/?utm_source=Registrar&utm_medium=Display&utm_campaign=Intro_LP"
   }
 ]
