@@ -1,35 +1,35 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-11-29T08:00:00.0Z",
+    "updateDate": "2018-12-02T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "The call for speakers is now open for NGVIKINGS 2019. This is a 100% community-driven event comprised of many Nordic Angular groups with more than 3500 active members in total, some of which are AngularJS Copenhagen, AngularJS Oslo, GDG Copenhagen and more. Visit ngvikings.org for more information.",
-    "redirectionUrl": "https://ngvikings.org/"
+    "mainText": "React Fire is well underway. This week brings the new build infrastructure to host it. A work-in-progress implementation can be followed in a work in progress branch on React repository. React Fire is an effort to modernize React DOM. The goal is to make React better aligned with how the DOM works, revisit some controversial past decisions that led to problems, and make React smaller and faster. ",
+    "redirectionUrl": "https://github.com/trueadm/react/tree/react-dom-fire"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-11-29T08:05:00.0Z",
+    "updateDate": "2018-12-02T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "React team have released the Roadmap for the first half of the 2019. They announced that the Suspense for code splitting is already shipped, React Hooks will be shipped Q1 2019, Concurrent Mode on Q2 2019, and Suspense for data fetching mid 2019. For more information visit their post on reactjs.org",
-    "redirectionUrl": "https://reactjs.org/blog/2018/11/27/react-16-roadmap.html"
+    "mainText": "Angular Material has been one of the products that has been the point of focus for Angular team for a while. While this framework allows you to have material design styles in your site, there hasn't been an easy way to customise the theme and use it. Here is how Material Theme Generator will help you. This generator let's you fully customise Angular Material themes and use it. To try it out head to materialtheme.arcsine.org/",
+    "redirectionUrl": "http://materialtheme.arcsine.org/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-11-29T08:07:00.0Z",
+    "updateDate": "2018-12-02T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "We all love free software, and open-source projects are the sweetest of all. The tech community has come to rely on them. That's why React Amsterdam has created a fun way of promoting open source projects, which is called open source awards. In 2019 they will repeat this and you can nominate your open source project of choice, the requirements are simple, the project should be open sourced and related to React ecosystem. Just head to osawards.com/react/ and submit your nomination.",
-    "redirectionUrl": "https://osawards.com/react/"
+    "mainText": "Introducing Beacon API, a way to send small amounts of data to a server without waiting for a response. Beacons are specifically for sending data and then forgetting about it. You don’t expect a response and don’t get a one either. This API brings a lot of possibilities, such as an efficient way to log information from a web page back to a server.",
+    "redirectionUrl": "https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-29T08:08:00.0Z",
+    "updateDate": "2018-12-02T08:08:00.0Z",
     "titleText": "Front End News",
     "mainText": "Angular v7 was recently released but the party is now officially over, now that Angular v7.1.0 is almost upon us – the release candidate phase has begun. This release brings some bug fixes and even more features like ability to mark an InvokeFunctionExpr as pure function, add updateOn option to FormBuilder, allow guards to return UrlTree as well as boolean, and some improvements on the service worker. For more info head to bit.ly/2DRpPOb",
     "redirectionUrl": "http://bit.ly/2DRpPOb"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-11-29T08:09:00.0Z",
+    "updateDate": "2018-12-02T08:09:00.0Z",
     "titleText": "Front End News",
     "mainText": "Introducing Cloudflare Registrar: Domain Registration You Can Love. On its 8th birthday, Cloudflare introduced their registrar promising best possible security and best possible price. Adding two factor authentication, locking the registration by default and applying practices like DNSSEC are just a few of its benefits. For more info visit Cloudflare's website.",
     "redirectionUrl": "https://www.cloudflare.com/lp/cloudflare-registrar-intro/?utm_source=Registrar&utm_medium=Display&utm_campaign=Intro_LP"
