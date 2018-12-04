@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-12-02T08:00:00.0Z",
+    "updateDate": "2018-12-05T08:00:00.0Z",
     "titleText": "Front End News",
-    "mainText": "React Fire is well underway. This week brings the new build infrastructure to host it. A work-in-progress implementation can be followed in a work in progress branch on React repository. React Fire is an effort to modernize React DOM. The goal is to make React better aligned with how the DOM works, revisit some controversial past decisions that led to problems, and make React smaller and faster. ",
-    "redirectionUrl": "https://github.com/trueadm/react/tree/react-dom-fire"
+    "mainText": "Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10. Built from the ground up with a new rendering engine known as EdgeHTML, Microsoft Edge was designed to be fast, lightweight, and secure, but it launched with a plethora of issues that resulted in users rejecting it early on. This is the first step towards revitalizing Windows 10's built-in web browser for users across PCs and phones.",
+    "redirectionUrl": "https://blogs.windows.com/buildingapps/2018/12/04/announcing-open-source-of-wpf-windows-forms-and-winui-at-microsoft-connect-2018/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-12-02T08:05:00.0Z",
+    "updateDate": "2018-12-05T08:05:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Angular Material has been one of the products that has been the point of focus for Angular team for a while. While this framework allows you to have material design styles in your site, there hasn't been an easy way to customise the theme and use it. Here is how Material Theme Generator will help you. This generator let's you fully customise Angular Material themes and use it. To try it out head to materialtheme.arcsine.org/",
+    "mainText": "Microsoft has announced they will open source WPF, Windows Forms, and WinUI. This announcement made at Microsoft Connect 2018, was done on top of announcing .NET Core 3.0 which adds support for building Windows desktop apps using WPF and Windows Forms.",
     "redirectionUrl": "http://materialtheme.arcsine.org/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-12-02T08:07:00.0Z",
+    "updateDate": "2018-12-05T08:07:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Introducing Beacon API, a way to send small amounts of data to a server without waiting for a response. Beacons are specifically for sending data and then forgetting about it. You don’t expect a response and don’t get a one either. This API brings a lot of possibilities, such as an efficient way to log information from a web page back to a server.",
-    "redirectionUrl": "https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API"
+    "mainText": "Google’s cross-platform Flutter UI toolkit hits version 1.0. Flutter, Google’s UI toolkit for building mobile Android and iOS applications, hit its version 1.0 release today. In addition, Google  also today announced a set of new third-party integrations with the likes of Square and others, as well as a couple of new features that make it easier to integrate Flutter with existing applications.",
+    "redirectionUrl": "https://techcrunch.com/2018/12/04/googles-cross-platform-flutter-ui-toolkit-hits-version-1-0/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-12-02T08:08:00.0Z",
+    "updateDate": "2018-12-05T08:08:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Angular v7 was recently released but the party is now officially over, now that Angular v7.1.0 is almost upon us – the release candidate phase has begun. This release brings some bug fixes and even more features like ability to mark an InvokeFunctionExpr as pure function, add updateOn option to FormBuilder, allow guards to return UrlTree as well as boolean, and some improvements on the service worker. For more info head to bit.ly/2DRpPOb",
-    "redirectionUrl": "http://bit.ly/2DRpPOb"
+    "mainText": "Announcing Dark Reader extensions for Chrome, FireFox and Safari. This extension allows you have dark reading mode in your favourite browser. On top of that it's open source so you can add other browsers if you feel like a challenge. Visit darkreader.org for more information.",
+    "redirectionUrl": "https://darkreader.org"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-12-02T08:09:00.0Z",
+    "updateDate": "2018-12-05T08:09:00.0Z",
     "titleText": "Front End News",
-    "mainText": "Introducing Cloudflare Registrar: Domain Registration You Can Love. On its 8th birthday, Cloudflare introduced their registrar promising best possible security and best possible price. Adding two factor authentication, locking the registration by default and applying practices like DNSSEC are just a few of its benefits. For more info visit Cloudflare's website.",
-    "redirectionUrl": "https://www.cloudflare.com/lp/cloudflare-registrar-intro/?utm_source=Registrar&utm_medium=Display&utm_campaign=Intro_LP"
+    "mainText": "TypeScript 3.2 is now available. It introduces stricter checking on the apply, bind, and call methods and latest JavaScript features from the ECMAScript standard on older browsers and runtimes by compiling those features into a form that they understand. The most interesting feature is configuration inheritance vis node_modules packages. For more information see their release notes.",
+    "redirectionUrl": "https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/"
   }
 ]
