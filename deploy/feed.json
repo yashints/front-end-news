@@ -1,37 +1,37 @@
 [
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_1",
-    "updateDate": "2018-12-10T08:00:00.0Z",
-    "titleText": "Front End News",
-    "mainText": "The npm blog announces some very interesting stats on this year in JavaScript and some predictions for 2019. This stats show that React's growth has slowed down, Angular's has remain flat and Vue's strong growth has continued. To find out more visit blog.npmjs.org",
-    "redirectionUrl": "https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms"
+    "updateDate": "2020-05-13T08:00:00.0Z",
+    "titleText": "Consuming WebAssembly from .Net is now possible",
+    "mainText": "Peter Huene, a staff research engineer at Mozilla shared his experience of using Wasmtime with .NET",
+    "redirectionUrl": "https://hub.packtpub.com/you-can-now-use-webassembly-from-net-with-wasmtime/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_2",
-    "updateDate": "2018-12-10T08:05:00.0Z",
-    "titleText": "Front End News",
-    "mainText": "Until the introduction of CSS Shapes, it was nearly impossible to design a magazine-esque layout with free flowing text for the web. On the contrary, web design layouts have traditionally been shaped with grids, boxes, and straight lines. CSS Shapes allow us to define geometric shapes that text can flow around. These shapes can be circles, ellipses, simple or complex polygons, and even images and gradients. The browser support is good in Chrome and Firefox, but Edge still is behind (not for long though based on the recent news).",
-    "redirectionUrl": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes"
+    "updateDate": "2020-05-13T08:05:00.0Z",
+    "titleText": "Predictions on the future of the web by Richard Feldman",
+    "mainText": "At ReactiveConf 2019, Richard Feldman, author of Elm in Action and creator of ‘elm-css’ made four predictions about how the future of web development will look like by the end of 2020 and 2025.",
+    "redirectionUrl": "https://hub.packtpub.com/4-predictions-by-richard-feldman-on-the-future-of-the-web-typescript-webassembly-and-more/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_3",
-    "updateDate": "2018-12-10T08:07:00.0Z",
-    "titleText": "Front End News",
-    "mainText": "WordPress has a brand new content editor called “Gutenberg” that is going to shape WordPress for years to come. In this article, Andy Bell explains why it’s a movement and not just a new editor. So far, Gutenberg has had a very mixed reception from the WordPress community and that reception has become increasingly negative since a hard deadline was set for the 5.0 release, even though many considered it to be incomplete.",
-    "redirectionUrl": "https://www.smashingmagazine.com/2018/12/gutenberg-accessibility-situation/"
+    "updateDate": "2020-05-13T08:07:00.0Z",
+    "titleText": "A new contract for web by Tim Berners-Lee",
+    "mainText": "Tim Berners-Lee launches a nine-principle ‘Contract for the Web’ to save the web.",
+    "redirectionUrl": "https://hub.packtpub.com/tim-berners-lee-launches-a-nine-principle-contract-for-the-web-to-save-the-web/"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-12-10T08:08:00.0Z",
-    "titleText": "Front End News",
-    "mainText": "Scott Helme (a security researcher in UK) shares information about a new security header that we can make use of: Clear Site Data allows site owners to clear data from cache, (local/session/permanent)storage, or cookies. This could be useful to delete sensitive or private data stored in localStorage or authentication cookies easily. During the use of a web app we can leave various pieces of data in the browser that we'd like to clear out if the user logs out or deletes their account. Clear Site Data gives us a reliable way to do that.",
-    "redirectionUrl": "https://scotthelme.co.uk/a-new-security-header-clear-site-data/"
+    "updateDate": "2020-05-13T08:08:00.0Z",
+    "titleText": "Web Assembly's major changes",
+    "mainText": "Proposed extension to enable functions to return multiple values would reduce code size and improve compiler efficiency, among other benefits",
+    "redirectionUrl": "https://www.infoworld.com/article/3482196/major-change-proposed-for-webassembly.html"
   },
   {
     "uid": "FRON_END_NEWS_ALEXA_FEED_4",
-    "updateDate": "2018-12-10T08:09:00.0Z",
-    "titleText": "Front End News",
-    "mainText": "Flutter, Google’s UI toolkit for building mobile Android and iOS applications, hit its version 1.0 release last week. In addition, Google also today announced a set of new third-party integrations with the likes of Square and others, as well as a couple of new features that make it easier to integrate Flutter with existing applications.",
-    "redirectionUrl": "https://techcrunch.com/2018/12/04/googles-cross-platform-flutter-ui-toolkit-hits-version-1-0/?utm_source=mobiledevweekly&utm_medium=email"
+    "updateDate": "2020-05-13T08:09:00.0Z",
+    "titleText": "Privacy first Brave browser exits beta",
+    "mainText": "By blocking trackers, invasive ads, and device fingerprinting by default, the open source browser had drawn protest from content publishers",
+    "redirectionUrl": "https://www.infoworld.com/article/3453848/privacy-first-brave-browser-exits-beta.html"
   }
 ]
